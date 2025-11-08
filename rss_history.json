@@ -1,66 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "fe201c53e74e007acb32438f4d9e0d8a1bd1d57774ea00e5bfd4050d38eeedb5": {
-        "title": "Off-Trajectory Reasoning: Can LLMs Collaborate on Reasoning Trajectory?",
-        "link": "https://arxiv.org/abs/2510.06410",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375510"
-      },
-      "c007d6a2f331f6c03c42d13f1cd15dbc212c61b32c91bce154af46881e95c377": {
-        "title": "Beneficial Reasoning Behaviors in Agentic Search and Effective Post-training to Obtain Them",
-        "link": "https://arxiv.org/abs/2510.06534",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375523"
-      },
-      "8f9e2111fc194fcc2a11710dd67384d16fd4a73d662ecfe56ccad258bac76c8e": {
-        "title": "Auto-Prompt Ensemble for LLM Judge",
-        "link": "https://arxiv.org/abs/2510.06538",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375533"
-      },
-      "305412edce64f8b18d8a4bfb167b523569ae816470091fb988c54b05b9e34098": {
-        "title": "Fine-Grained Emotion Recognition via In-Context Learning",
-        "link": "https://arxiv.org/abs/2510.06600",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375543"
-      },
-      "36c332ab1a6adca39307e7cbe39e2cc53c81193b1f605ac46b16e4581ab87a47": {
-        "title": "Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support",
-        "link": "https://arxiv.org/abs/2510.06674",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375555"
-      },
-      "421457766b023aa51532c7e87127e5b83b6a86cf81bde8bd38fd629698f3bfa3": {
-        "title": "TGPR: Tree-Guided Policy Refinement for Robust Self-Debugging of LLMs",
-        "link": "https://arxiv.org/abs/2510.06878",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375565"
-      },
-      "f29ced8b3e2f915456aae48d46180d13e48933d7e436d2208625b866edbfc78a": {
-        "title": "LLM-Assisted Modeling of Semantic Web-Enabled Multi-Agents Systems with AJAN",
-        "link": "https://arxiv.org/abs/2510.06911",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375576"
-      },
-      "6f838861c6697663c3e6205ba336b46d71b744b8487f74973328516881648e9d": {
-        "title": "Revisiting the Uniform Information Density Hypothesis in LLM Reasoning Traces",
-        "link": "https://arxiv.org/abs/2510.06953",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375586"
-      },
-      "8b025ada6a5b117c72e04cec1b09e5376be5dd6db6a86921542bc4905a2442ba": {
-        "title": "Scalable multilingual PII annotation for responsible AI in LLMs",
-        "link": "https://arxiv.org/abs/2510.06250",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375463"
-      },
-      "ae73037bc33e18b075d3c1fb84b8c56662095c2fb550cd6b2b542acf9f962b04": {
-        "title": "LLM-Driven Rubric-Based Assessment of Algebraic Competence in Multi-Stage Block Coding Tasks with Design and Field Evaluation",
-        "link": "https://arxiv.org/abs/2510.06253",
-        "published_date": "Thu, 09 Oct 2025 00:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.375496"
-      },
       "9ffe4a1c3351defad59537300a65b1f12f1c95f9bc9db06a7cde71a98c2746b2": {
         "title": "更高智商更快思考！蚂蚁开源最新万亿语言模型，多项复杂推理SOTA",
         "link": "https://www.qbitai.com/2025/10/339932.html",
@@ -1860,225 +1800,15 @@
         "link": "https://www.qbitai.com/2025/11/350282.html",
         "published_date": "Sat, 08 Nov 2025 04:41:00 GMT",
         "first_seen": "2025-11-08T05:20:11.396270"
+      },
+      "78e93be686a66e03844aff1fc6f0bac05191a1009377bd973c0dce64e68f5497": {
+        "title": "AI100访谈：「Get笔记」方法论｜量子位智库",
+        "link": "https://www.qbitai.com/2025/11/350350.html",
+        "published_date": "Sat, 08 Nov 2025 07:04:00 GMT",
+        "first_seen": "2025-11-08T08:30:52.026680"
       }
     },
     "Technology": {
-      "ad09672fd7db5ce2a5f7548af6732589b74b5d742c305c10104f4e7898366c5a": {
-        "title": "Alibaba Builds Robot AI Team as SoftBank Acquires ABB's Robotics Unit for $5.4 Billion",
-        "link": "https://www.tmtpost.com/7715229.html",
-        "published_date": "Thu, 09 Oct 2025 12:30:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856244"
-      },
-      "ec66209474ff501b7f27ad9b632e107aa9f9b5ac3015c439ea4242592a2e0257": {
-        "title": "蚂蚁、OpenAI、DeepSeek卷疯了！国产最强万亿参数旗舰模型Ling-1T开源",
-        "link": "https://www.tmtpost.com/7715213.html",
-        "published_date": "Thu, 09 Oct 2025 12:03:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856257"
-      },
-      "02b87e2ae55a51773043b9f9394241e20aed5bb0859d584aa8ac340a3aef239e": {
-        "title": "我们去鲜啤福鹿家看了看，蜜雪冰城怎么卖啤酒",
-        "link": "https://www.tmtpost.com/7714750.html",
-        "published_date": "Thu, 09 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856268"
-      },
-      "e3a9a62f63a274c9d3516c1430c3ad15256bb0af84e2a43fb0df53d052f277f3": {
-        "title": "这个十一假期，AI又变天了",
-        "link": "https://www.tmtpost.com/7714942.html",
-        "published_date": "Thu, 09 Oct 2025 11:40:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856276"
-      },
-      "488d96756e4f3e7b0f54391bc65bc903d5c1ba62b44d6f9c54415af8924aa862": {
-        "title": "「一页纸」讲透美股公司之：MP Materials",
-        "link": "https://www.tmtpost.com/7714774.html",
-        "published_date": "Thu, 09 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856285"
-      },
-      "e761fe602c61729924e28350cd939036c1ebcd3d78914ed03317bf09b83c6ebc": {
-        "title": "Sora 2 实战：从官方提示词指南精解，到用 n8n 在飞书多维表格里批量生成视频",
-        "link": "https://www.tmtpost.com/7714704.html",
-        "published_date": "Thu, 09 Oct 2025 10:42:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856294"
-      },
-      "e7be7256cc4166fcb9ca5c9fddfd4caa6db41599723d46d11967d3a7725660c5": {
-        "title": "AI会革ERP的命么？",
-        "link": "https://www.tmtpost.com/7714911.html",
-        "published_date": "Thu, 09 Oct 2025 10:30:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856302"
-      },
-      "70f2c01f88a42c4d59c543074594654820956a837a164628e4147b0123c47ebc": {
-        "title": "【产业互联网周报】 OpenAI上半年销售额43亿美元；蚂蚁加入万亿参数大模型阵营，开源1T推理大模型；OpenAI据称将发布新版Sora 2，并准备推出独立应用程序；DeepSeek-V3.2-Exp发布并开源",
-        "link": "https://www.tmtpost.com/7715001.html",
-        "published_date": "Thu, 09 Oct 2025 10:11:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856224"
-      },
-      "b8344297dd39f8ce4e0749d5b3a68eff78e5ae0a3271ef618a280e4cb39dce2b": {
-        "title": "新加坡探路智能陪伴新纪元：千亿市场的全球化起点｜SEA Frontline",
-        "link": "https://www.tmtpost.com/7713833.html",
-        "published_date": "Thu, 09 Oct 2025 09:29:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856310"
-      },
-      "af228cbaa891f5686e98948f0692cba7488ab09bd61170a7a4bc85cf3264d964": {
-        "title": "“鸡排哥”黄金周流量变“留量”，情绪经济是下一个万亿赛道？",
-        "link": "https://www.tmtpost.com/7714751.html",
-        "published_date": "Thu, 09 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.409751"
-      },
-      "5bef7ef3e93cc74c30038c9471d95ba01c3fc1c40849d035c272820fad5c87f2": {
-        "title": "牛市“造富”潮起，千亿富豪扩容与新贵崛起",
-        "link": "https://www.tmtpost.com/7714733.html",
-        "published_date": "Thu, 09 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.410314"
-      },
-      "4971483376ef4b553cd719ae45bb9d0595ec1fb19f7392b69699588907341a52": {
-        "title": "科股早知道：可控核聚变撬动万亿蓝海市场，推动中上游环节产业化提速",
-        "link": "https://www.tmtpost.com/7714877.html",
-        "published_date": "Thu, 09 Oct 2025 07:46:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.410969"
-      },
-      "f8ead609a131ecf8c91a344fbf8215ce20cc748a891f773fe0578ad6eea07ed9": {
-        "title": "【钛晨报】世贸组织大幅下调2026年全球货物贸易增长预期；马斯克旗下的xAI有望融资200亿美元，英伟达是股权投资者之一；特斯拉推出售价39990美元的新版Model Y",
-        "link": "https://www.tmtpost.com/7714766.html",
-        "published_date": "Thu, 09 Oct 2025 07:20:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.412460"
-      },
-      "afd3c8c57d86581310b5e2d93a9f8ef9ac62ed0eff24ffbeaf2294be3838ba20": {
-        "title": "Vercel 推出 Drains 功能：实现统一数据导出",
-        "link": "https://www.infoq.cn/article/MyY0IhVq5lvNZ0b00stT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 12:01:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.413277"
-      },
-      "5984b75fd91ba2bc7049a2730e5a0327b892d0567a6508db83c599dffb68f98d": {
-        "title": "Agoda 在 CICD 流程中利用 ChatGPT 优化 SQL 存储过程",
-        "link": "https://www.infoq.cn/article/cuu94IXoxxAYtlyjhajf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 11:10:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.414446"
-      },
-      "71111d77d8d1c0b99dce3dda6d9d96aae8119da1da130aade04c04ac6c4ab693": {
-        "title": "Microsoft将.NET STS支持周期从18个月延长到24个月",
-        "link": "https://www.infoq.cn/article/RhvBoLpNZkrrxOmLz0DR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 11:06:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.415451"
-      },
-      "67324fd688af90c1a983992ec2d6b28cd1746ea5f22b5099dc54936f4daca7e1": {
-        "title": "辍学潮来了？19、20岁年轻人“逃离”教室去AI创业，20多年创业大佬断言：他们的机会比大厂大",
-        "link": "https://www.infoq.cn/article/rsC6jK3Ceqg6FEOuTDR6?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 10:52:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.416896"
-      },
-      "24a767229e1f4d591c431a79e3e03676db9fefb1646549a0590a1638ef0f474d": {
-        "title": "谷歌又赢麻了！两位灵魂人物斩获2025诺贝尔物理学奖，“量子霸权”玩真的？",
-        "link": "https://www.infoq.cn/article/9wmi1DkYcfR8osraqzke?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 09 Oct 2025 10:30:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.418039"
-      },
-      "294d8661d0f456b62fb7b5d17b484bfbb85458eacc83d78b08c9b57caff8c9fb": {
-        "title": "谈谈西贝：权力带来的脑损伤",
-        "link": "http://www.huxiu.com/article/4787846.html?f=wangzhan",
-        "published_date": "Thu, 09 Oct 2025 11:50:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.418685"
-      },
-      "abd894f420e5a70abc544055177d30bf6b743a2a49833c455168428743d4a8ec": {
-        "title": "王健林解除限高，但万达的危机真的过去了吗？",
-        "link": "http://www.huxiu.com/article/4787847.html?f=wangzhan",
-        "published_date": "Thu, 09 Oct 2025 10:20:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.419506"
-      },
-      "bbe11b9b3739bf5d1223354c3bddbb78aca253a878fa1e83541a81bb696c7c42": {
-        "title": "大国工程又出新品？这个“双塔一机”光热储能到底是啥？",
-        "link": "http://www.huxiu.com/article/4788485.html?f=wangzhan",
-        "published_date": "Thu, 09 Oct 2025 07:10:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.420656"
-      },
-      "d4220d6b6413700641897beed14eeb2ed985bb987fe5ac5770919075f170d1ad": {
-        "title": "把我的第一次日本旅行，完全交给 AI 是什么体验？",
-        "link": "http://www.geekpark.net/news/354806",
-        "published_date": "Thu, 09 Oct 2025 11:47:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.421739"
-      },
-      "c6b4f8c291ba483d34b281a191b1896301c5eaf5ee535ae503fd8adba193b962": {
-        "title": "英伟达将投资马斯克的 xAI；低价版Model 3/Y 「阉割」智驾功能；微信推出批量撤回信息功能",
-        "link": "http://www.geekpark.net/news/354778",
-        "published_date": "Thu, 09 Oct 2025 08:43:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.423581"
-      },
-      "1f7d8bd66a6611f0222aa88f8c2dcffae6a87c9abab6e308c95f15e61a148189": {
-        "title": "伊犁寻草记：恰西的彩虹与库尔德宁的云杉",
-        "link": "https://sspai.com/post/102585",
-        "published_date": "Thu, 09 Oct 2025 11:35:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.424482"
-      },
-      "52d384feedd5d0f9d17c7bf6dbba7a4549cc23647c08e887ee10b13714464715": {
-        "title": "派早报：亚马逊发布 2025 秋季新品、特斯拉推出「标准款」车型等",
-        "link": "https://sspai.com/post/102945",
-        "published_date": "Thu, 09 Oct 2025 08:17:00 GMT",
-        "first_seen": "2025-10-09T05:21:17.856188"
-      },
-      "7e4e4366a86cc8c88e662c84e3f63789ea8179c969b55b047f4d7a1a1f10103c": {
-        "title": "October’s Prime Day event is almost over, but our favorite deals are still live",
-        "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
-        "published_date": "Thu, 09 Oct 2025 04:25:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.429087"
-      },
-      "61750993e444322da67edc7bc6e1094c3f62eeb63601df2231a281c0355fb94f": {
-        "title": "Sony&#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off",
-        "link": "https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025",
-        "published_date": "Thu, 09 Oct 2025 03:04:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.432319"
-      },
-      "6e3eeeee8307116089edff6cd8e804ffbb9b8a85c3b4bcd5a15292d1eeb49f71": {
-        "title": "Prime Day ends soon, but these deals are still going at Walmart",
-        "link": "https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025",
-        "published_date": "Thu, 09 Oct 2025 01:15:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.435069"
-      },
-      "e811dd1e09d8e68df5da5d89b69c58c5a0cd848b6f0ea00dc49f2f03038d5e62": {
-        "title": "Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off",
-        "link": "https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale",
-        "published_date": "Thu, 09 Oct 2025 01:15:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.438226"
-      },
-      "631ba9ff645a78d0db902c1c6dd6cfdec5577dfc9d6165f2dad7c8fbe8ae1c8e": {
-        "title": "These great October Prime Day deals on laptops won’t last much longer",
-        "link": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
-        "published_date": "Thu, 09 Oct 2025 01:05:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.441689"
-      },
-      "1adc48d1b6d175734e09ecc0045ab190b67de83f0d124c7a84ffb77410f799b0": {
-        "title": "My go-to Switch 2 accessories are still available for October Prime Day",
-        "link": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day",
-        "published_date": "Thu, 09 Oct 2025 00:03:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.445303"
-      },
-      "f679490d608074e59662df3333b2bce192dfb13c67bf946ec284b6a435f4673f": {
-        "title": "You still have time to save on Verge-favorite gadgets before Prime Day ends",
-        "link": "https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025",
-        "published_date": "Wed, 08 Oct 2025 23:58:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.449063"
-      },
-      "8c506d3efa2ac0a4431a1c786ee9362ad4da41c40ed66587687a96fea985b2d0": {
-        "title": "I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now",
-        "link": "https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025",
-        "published_date": "Wed, 08 Oct 2025 23:24:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.453609"
-      },
-      "64daf76e5cb4a52db02ee9c4210336601a92dade5b93785a2c159441b8c91015": {
-        "title": "You can still save up to 70 percent on headphones from Bose and Sony today",
-        "link": "https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025",
-        "published_date": "Wed, 08 Oct 2025 23:21:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.458061"
-      },
-      "36eb4f40775deb20073355499cdd2a4f2991b966db77fc4f1c0ee450bba7c80c": {
-        "title": "There’s still time to stock up on Blu-ray deals before the end of Prime Day",
-        "link": "https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025",
-        "published_date": "Wed, 08 Oct 2025 23:20:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.462816"
-      },
-      "d6f47f4e54f8a3cd74c85bea543cef19cfe0b257e0835f2201da330fea490814": {
-        "title": "We Found 265 of the Best Prime Day Deals Still on for 2025: Up To 55% Off",
-        "link": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
-        "published_date": "Thu, 09 Oct 2025 00:55:00 GMT",
-        "first_seen": "2025-10-09T05:20:29.467539"
-      },
       "d8f2592d22532d36f85394135f0c09e187566e2897ed9dbef48c0c98f99d6f2d": {
         "title": "AI创业浪潮席卷全球，如何避免陷阱，抓住机遇？｜ NEX-T Summit 2025",
         "link": "https://www.tmtpost.com/7715582.html",
@@ -13502,6 +13232,18 @@
         "link": "http://www.geekpark.net/news/356147",
         "published_date": "Sat, 08 Nov 2025 09:01:00 GMT",
         "first_seen": "2025-11-08T05:20:11.448161"
+      },
+      "ba8ec3c8bec13fef4c8d8a62cb8a26340d9a11787ab5e71e18c84acecb3bc988": {
+        "title": "副业淘宝店经营 1 周年，我获取了哪些经验？",
+        "link": "https://sspai.com/post/102929",
+        "published_date": "Sat, 08 Nov 2025 15:04:00 GMT",
+        "first_seen": "2025-11-08T08:30:52.077335"
+      },
+      "b49948ee18546092edbc847164dbf5ad82782375bf05446523aad219e624ad06": {
+        "title": "搜狐张朝阳：拒做大模型，要在AI狂热中坚守现金流 | 巴伦精选",
+        "link": "https://www.tmtpost.com/7755309.html",
+        "published_date": "Sat, 08 Nov 2025 13:25:00 GMT",
+        "first_seen": "2025-11-08T08:30:52.077514"
       }
     },
     "Finance": {
@@ -13832,8 +13574,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-08T05:20:11.415218",
-    "Technology": "2025-11-08T05:20:11.455262",
-    "Finance": "2025-11-08T05:20:11.289624"
+    "AI": "2025-11-08T08:30:52.046189",
+    "Technology": "2025-11-08T08:30:52.084485",
+    "Finance": "2025-11-08T08:30:51.921213"
   }
 }
