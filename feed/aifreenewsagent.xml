@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Nov 2025 08:24:00 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2025 08:24:44 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2025 08:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Nov 2025 08:31:22 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大厂AI新战场：AQ狂飙，蚂蚁押注大健康赛道</title>
-      <link>https://www.qbitai.com/2025/11/350413.html</link>
-      <description>&lt;![CDATA[大厂AI新战场：AQ狂飙，蚂蚁押注大健康赛道]]&gt;</description>
-      <pubDate>Sun, 09 Nov 2025 07:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350413.html</guid>
+      <title>88%的公司在用AI，但只有39%吃到真金白银？麦肯锡2025 AI报告来了</title>
+      <link>https://www.qbitai.com/2025/11/350538.html</link>
+      <description>&lt;![CDATA[88%的公司在用AI，但只有39%吃到真金白银？麦肯锡2025 AI报告来了]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 08:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350538.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>免费！美团AI IDE编程工具CatPaw上线</title>
+      <link>https://www.qbitai.com/2025/11/350537.html</link>
+      <description>&lt;![CDATA[免费！美团AI IDE编程工具CatPaw上线]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 08:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350537.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>AI编程冲刺“DeepSeek时刻”：00后团队用国产模型一键直出复杂应用，效果超越Claude Code</title>
+      <link>https://www.qbitai.com/2025/11/350485.html</link>
+      <description>&lt;![CDATA[AI编程冲刺“DeepSeek时刻”：00后团队用国产模型一键直出复杂应用，效果超越Claude Code]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 07:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350485.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>最后一周！人工智能年度榜单申报即将截止。</title>
+      <link>https://www.qbitai.com/2025/11/350471.html</link>
+      <description>&lt;![CDATA[最后一周！人工智能年度榜单申报即将截止。]]&gt;</description>
+      <pubDate>Mon, 10 Nov 2025 07:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/350471.html</guid>
       <category>AI</category>
     </item>
   </channel>
