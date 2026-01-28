@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-28 08:35
+**最后更新时间**: 2026-01-28 23:53
+
+---
+
+## 🆕 最新更新 (2026-01-28 23:53)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-01-29日刊](https://ai.hubtoday.app//2026-01/2026-01-29/)
+**发布时间**: 2026-01-29 07:20
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，AI音乐被重新定义！昆仑天工甩出新王炸，拿下全球第一](https://www.jiqizhixin.com/articles/2026-01-28-12)
+**发布时间**: 2026-01-28 23:36
+
+#### [字节跳动李航博士新作：AI智能体的通用框架](https://www.jiqizhixin.com/articles/2026-01-28-11)
+**发布时间**: 2026-01-28 23:28
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/)
+**发布时间**: 2026-01-28 11:00
 
 ---
 
