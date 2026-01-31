@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5df58a41f6e2d0dbaf50e2f15bd8efa9b587e626de4a0beb63b7763e02afaeb2": {
-        "title": "孟晚舟发新年致辞，华为要重新“盖房子”",
-        "link": "https://www.tmtpost.com/7828586.html",
-        "published_date": "Thu, 01 Jan 2026 13:52:00 GMT",
-        "first_seen": "2026-01-01T08:32:51.703760"
-      },
-      "51aadbf5b97267c6822b74796a60d9365fc0a9c5ec71518c05be383fd0d35e7e": {
-        "title": "商业文明的第三次跃迁：从效率、竞争到“存在”，你的公司准备好成为“文明”了吗？",
-        "link": "https://www.tmtpost.com/7828650.html",
-        "published_date": "Thu, 01 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-01T08:32:51.703766"
-      },
-      "1c61f351e97fe5cc0ba27450e84ef15285cf701afb9328308b722a415d48cfc3": {
-        "title": "米其林以务实路线迈向AIOps，并无宏大愿景",
-        "link": "https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 15:14:00 GMT",
-        "first_seen": "2026-01-01T08:32:51.703769"
-      },
-      "50c44675588bc2c4a741cd169e257bdd9a3c9a32ade97a744a55a32a01504116": {
-        "title": "赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词",
-        "link": "https://www.tmtpost.com/7828591.html",
-        "published_date": "Thu, 01 Jan 2026 09:49:00 GMT",
-        "first_seen": "2026-01-01T08:32:51.703771"
-      },
-      "26f429f13e7ce4718a5317ce09a0f8755ae569bc6e704de78340270c3949f9af": {
-        "title": "2026消费前瞻：为「活人感」买单",
-        "link": "https://www.tmtpost.com/7828767.html",
-        "published_date": "Thu, 01 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-01T08:32:51.703772"
-      },
       "0a33e138fdbbe0806c1eb47dfe91afe32c2cbec6933d7168b5cbb72bdc154619": {
         "title": "硅谷悖论：AI裁员浪潮下的狂欢与阵痛",
         "link": "https://www.tmtpost.com/7828641.html",
@@ -3919,21 +3889,63 @@
         "link": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
         "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
         "first_seen": "2026-01-31T05:40:00.130082"
+      },
+      "2967242fe487e9e17b314f8392bf38715a34cf7268eaaf52ac6fee33a11304aa": {
+        "title": "阿里决定对电商业务生理性断奶",
+        "link": "https://www.tmtpost.com/7862411.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643221"
+      },
+      "b67f8ee5a496fa6e1e112ffca17b4ede4d77fa83fbdaee5378fd5d9824fd914e": {
+        "title": "早已“破圈”的庞天宇，能带领腾讯混元“破圈”吗？",
+        "link": "https://www.tmtpost.com/7862680.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643233"
+      },
+      "52ed25d748a97095dea20f446be9f035d6b877c7537641ec9faab42b94e5a826": {
+        "title": "“冻品一哥”转行做面包？",
+        "link": "https://www.tmtpost.com/7862454.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643235"
+      },
+      "2334afa9660fcf2f88848e83026b090f2c8cd8670025474659c72826189148bb": {
+        "title": "毛戈平出海，能否复制泡泡玛特的增长路径？",
+        "link": "https://www.tmtpost.com/7862763.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643237"
+      },
+      "46ada36b81456ff1e20061a22a0adeef0790488f525573af3352f6a4e9cc5727": {
+        "title": "平头哥八年蝶变，最凶猛的国产芯片",
+        "link": "https://www.tmtpost.com/7862406.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643239"
+      },
+      "e7c8404b83fd8fd07b8e33069eaf9ae2120bcafd2dc85ea4706b09a0ac3cf766": {
+        "title": "极兔B面，换挡加速",
+        "link": "https://www.tmtpost.com/7862596.html",
+        "published_date": "Sat, 31 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643240"
+      },
+      "4ccce840b7afffbc946e0105c73f65400d1ef433e099d8e2390c14876112bd8d": {
+        "title": "百度成立PSIG事业群组，副总裁王颖挂帅，向李彦宏汇报",
+        "link": "https://www.tmtpost.com/7862645.html",
+        "published_date": "Sat, 31 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643242"
+      },
+      "356ef47e5de9b88bece5b8a905a145e684313a7ae36c33b9d99d89a2a42bca2f": {
+        "title": "堪称外挂的 Claude Code 配置神器，在 GitHub 上杀疯了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530978&idx=1&sn=4ffda450408750872a52ddaeb808a2ff",
+        "published_date": "Sat, 31 Jan 2026 15:05:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643243"
+      },
+      "9592e5e1ae70de0e35d8efaf6efb70caac5612f07ad871266a91327a2f31bb89": {
+        "title": "价值判断：涨停板的投资机会和风险提示（1月30日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7862654.html",
+        "published_date": "Sat, 31 Jan 2026 11:03:00 GMT",
+        "first_seen": "2026-01-31T08:39:16.643245"
       }
     },
     "Finance": {
-      "756b418070bd44377c538ed94c8aea7cc226ee5e55ce22e31e92bc3239de9b4c": {
-        "title": "‘Several’ people killed in Swiss ski resort fire",
-        "link": "https://www.ft.com/content/b2cd91db-1b7b-422f-9d8c-5908a5a1a44b",
-        "published_date": "Thu, 01 Jan 2026 07:49:00 GMT",
-        "first_seen": "2026-01-01T08:32:39.605427"
-      },
-      "fe8ffa7c88688565ec1d89f214301e8a6098b46fc8d2cd5d8bc8e8cfffb3eaff": {
-        "title": "Mamdani to press ahead with tax rises for New York City millionaires",
-        "link": "https://www.ft.com/content/8b748372-df61-460a-99fe-2cc163fd85dd",
-        "published_date": "Thu, 01 Jan 2026 05:30:00 GMT",
-        "first_seen": "2026-01-01T08:32:39.605442"
-      },
       "ec6c62eac0720cc34bc987859eeea0d9ca6b1edc1e7f60bee9da323d7ebcd852": {
         "title": "Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway’s reins",
         "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
@@ -6186,12 +6198,6 @@
       }
     },
     "Ai": {
-      "2f8a44593be960939151663dcd6257dc5c46da0e86b132cc3b4da9debcd78c77": {
-        "title": "能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会",
-        "link": "https://www.qbitai.com/2026/01/366397.html",
-        "published_date": "Thu, 01 Jan 2026 07:43:00 GMT",
-        "first_seen": "2026-01-01T08:32:39.726385"
-      },
       "83410824af34fb55df7ee1d4093a861779ad94edcd92b3cd70e9f8b0c5802039": {
         "title": "刚刚，梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
         "link": "https://www.jiqizhixin.com/articles/2026-01-02-7",
@@ -8488,7 +8494,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-31T05:40:00.130084",
+    "Technology": "2026-01-31T08:39:16.643247",
     "Finance": "2026-01-31T05:39:59.895099",
     "Ai": "2026-01-30T23:28:20.479391"
   }
