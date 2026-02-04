@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 05:51
+**最后更新时间**: 2026-02-04 08:46
+
+---
+
+## 🆕 最新更新 (2026-02-04 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Novo Nordisk shares tumble 18% after sales warning](https://www.ft.com/content/d148ce25-fa76-468b-b9ac-95c62a994a55)
+**发布时间**: 2026-02-04 08:20
+
+#### [Russian spy spacecraft have intercepted Europe’s key satellites, officials believe](https://www.ft.com/content/cd08c49c-658e-49c9-9a15-234f2bfc2074)
+**发布时间**: 2026-02-04 05:00
+
+#### [From arms to orbit: Rheinmetall’s expansion unsettles rivals](https://www.ft.com/content/a326b178-4389-40f7-9979-a1b878e94c3d)
+**发布时间**: 2026-02-04 05:00
+
+#### [Reading the runes on a Warsh Fed](https://www.ft.com/content/93b4c72a-0ceb-4839-bf72-06de3870d407)
+**发布时间**: 2026-02-04 05:00
+
+#### [Everyone and their mother is peddling an AI application](https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0)
+**发布时间**: 2026-02-04 05:00
+
+#### [Nvidia AI chip sales to China stalled by US security review](https://www.ft.com/content/d963c6c9-3618-4d83-8efe-eccf74cd637f)
+**发布时间**: 2026-02-04 03:14
 
 ---
 
