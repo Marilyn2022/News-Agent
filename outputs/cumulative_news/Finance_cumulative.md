@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-03 23:30
+**最后更新时间**: 2026-02-04 05:51
+
+---
+
+## 🆕 最新更新 (2026-02-04 05:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?](https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 05:38
+
+#### [Many U.S. households feel like they can’t get ahead financially — and they’re right](https://www.marketwatch.com/story/people-who-work-for-a-paycheck-have-less-money-than-you-think-ec0e7f84?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 02:56
+
+#### [Trump and Warsh aren’t holding a joint press conference. What this says about the Fed’s next chapter.](https://www.marketwatch.com/story/trump-and-warsh-arent-holding-a-joint-press-conference-it-could-signal-a-new-era-of-less-fed-talk-e8b47a42?mod=mw_rss_topstories)
+**发布时间**: 2026-02-04 02:40
+
+#### [Nvidia’s stock needs a spark. Here’s how it can generate one.](https://www.marketwatch.com/story/nvidias-stock-needs-a-spark-heres-how-it-can-get-one-c7f5a508?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:50
+
+#### [Stocks fall as S&P 500 dragged down by tech. Is the selling over?](https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84?mod=mw_rss_topstories)
+**发布时间**: 2026-02-03 23:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can Sanae Takaichi govern Japan on star power alone?](https://www.ft.com/content/b9fbaa33-73ef-4f12-b62c-3aa0da05a259)
+**发布时间**: 2026-02-04 01:23
+
+#### [Citadel’s Ken Griffin says Trump White House has ‘enriched’ family members](https://www.ft.com/content/129b8bd0-53b2-472d-bd65-1377517f9c52)
+**发布时间**: 2026-02-03 23:27
 
 ---
 
