@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 05:54
+**最后更新时间**: 2026-02-27 08:43
+
+---
+
+## 🆕 最新更新 (2026-02-27 08:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [What you said about my new ChatGPT investment adviser](https://www.ft.com/content/f76fac89-89e9-4399-ace1-bf7349a8d495)
+**发布时间**: 2026-02-27 08:32
+
+#### [‘The worst outcome’: Green triumph creates new peril for Labour](https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9)
+**发布时间**: 2026-02-27 07:49
+
+#### [Starmer under pressure after Greens secure historic by-election victory](https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e)
+**发布时间**: 2026-02-27 05:15
+
+#### [UK consumer confidence survey gives up gains of past 2 months](https://www.ft.com/content/55c696ed-dd31-4717-b5ad-73eb74c56337)
+**发布时间**: 2026-02-27 00:01
+
+#### [HMRC collects extra £16bn from big business with more ‘hands-on’ approach](https://www.ft.com/content/c96dd870-8329-49ee-b863-faa21a0eaffe)
+**发布时间**: 2026-02-27 00:01
 
 ---
 
