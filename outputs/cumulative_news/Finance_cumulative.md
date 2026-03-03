@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 05:52
+**最后更新时间**: 2026-03-03 09:03
+
+---
+
+## 🆕 最新更新 (2026-03-03 09:03)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks and bonds sell off as widening Middle East war rattles markets](https://www.ft.com/content/48a11039-eca6-4af4-89bd-c79b4203aee8)
+**发布时间**: 2026-03-03 08:56
+
+#### [Israel launches new wave of strikes on Tehran and Beirut](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 02:12
+
+#### [Stronger UK public finances can withstand Iran war shock, Reeves to say](https://www.ft.com/content/0f8b7d9f-eb13-41d3-890d-49a6bbcf3594)
+**发布时间**: 2026-03-03 00:01
+
+#### [Iran executes Khamenei’s plan to spread regional war](https://www.ft.com/content/02eb660a-3c80-4d6b-9e58-e7411278b0f1)
+**发布时间**: 2026-03-03 00:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Opendoor CEO says his firm is offering mortgages at 4.99%. Some are puzzled how.](https://www.marketwatch.com/story/opendoor-ceo-says-his-firm-is-offering-mortgages-at-4-99-some-are-puzzled-how-b5d75613?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 08:42
 
 ---
 
