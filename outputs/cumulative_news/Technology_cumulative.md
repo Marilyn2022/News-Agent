@@ -1,7 +1,124 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-21 00:11
+**最后更新时间**: 2026-05-22 00:06
+
+---
+
+## 🆕 最新更新 (2026-05-22 00:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】国常会重磅部署，纵深推进重点领域市场统一；国内成品油价再上调，加满一箱油多花3元钱；考虑收购玛莎拉蒂？比亚迪辟谣](https://www.tmtpost.com/7998263.html)
+**发布时间**: 2026-05-22 07:20
+
+#### [渝开发定增“大瘦身”高达87%，远郊滞销盘撑不起门面？](https://www.tmtpost.com/7998321.html)
+**发布时间**: 2026-05-21 22:21
+
+#### [蔚蓝科技发布新一代消费级四足机器人BabyAlpha A3｜具身动态](https://www.tmtpost.com/7998326.html)
+**发布时间**: 2026-05-21 22:16
+
+#### [珈凯生物：股权定价悬殊频现异常操作，高毛利、低研发并存｜IPO观察](https://www.tmtpost.com/7997486.html)
+**发布时间**: 2026-05-21 20:56
+
+#### [菜鸟副总裁毕江华：仓库人效提升100%，攀爬机器人ZeeBot启动全球交付](https://www.tmtpost.com/7997611.html)
+**发布时间**: 2026-05-21 19:07
+
+#### [优必选被拍在沙滩上](https://www.tmtpost.com/7997298.html)
+**发布时间**: 2026-05-21 18:36
+
+#### [硅谷 AI 格局生变：卡帕西跳槽、马斯克助阵，孙正义成孤守者](https://www.tmtpost.com/7997279.html)
+**发布时间**: 2026-05-21 18:32
+
+#### [Meta裁员8000人背后：扎克伯格千亿美元豪赌AI](https://www.tmtpost.com/7996168.html)
+**发布时间**: 2026-05-21 18:24
+
+#### [孙正义600亿美元押注OpenAI，软银内部慌了](https://www.tmtpost.com/7996159.html)
+**发布时间**: 2026-05-21 18:24
+
+#### [河北酒王换帅：王占刚能帮老白干找回男人味吗？](https://www.tmtpost.com/7996791.html)
+**发布时间**: 2026-05-21 18:24
+
+#### [华电校友王君生出任晶澳储能事业部老大， 换人能解决这家组件龙头企业的难题吗？](https://www.tmtpost.com/7996804.html)
+**发布时间**: 2026-05-21 18:24
+
+#### [国产手机抢夺云台相机，给了立讯精密挣脱苹果的底气](https://www.tmtpost.com/7997591.html)
+**发布时间**: 2026-05-21 18:23
+
+#### [AI硬件最火的一届618，绿联科技豪赌AI NAS的未来](https://www.tmtpost.com/7997622.html)
+**发布时间**: 2026-05-21 18:17
+
+#### [“一人公司”火了，谁靠AI员工挣到第一桶金？](https://www.tmtpost.com/7997791.html)
+**发布时间**: 2026-05-21 18:16
+
+#### [真武M890问世，平头哥离上市还远吗？](https://www.tmtpost.com/7997773.html)
+**发布时间**: 2026-05-21 18:16
+
+#### [英伟达逐渐腾讯化](https://www.tmtpost.com/7997810.html)
+**发布时间**: 2026-05-21 18:16
+
+#### [两个第一，两场战争，火山引擎依然是阿里云的最大变量](https://www.tmtpost.com/7996807.html)
+**发布时间**: 2026-05-21 17:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [每个企业都需要自己的 Token Factory？超聚变提出“智企”新范式](https://www.infoq.cn/article/Zo1ZBl76YWyW6Eucq7eT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 22:47
+
+#### [Navigation API 达基线版本，已经可以作为 History API 的替代方案使用](https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 18:30
+
+#### [Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署](https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 16:06
+
+#### [词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石](https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:37
+
+#### [Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？](https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:33
+
+#### [马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家](https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:23
+
+#### [中国最神秘AI孵化器正式亮相：11位“大佬”导师成为超强外挂](https://www.infoq.cn/article/odXlpi1FCUhDFC2gQ7W2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:18
+
+#### [从兼容 CUDA 到自我进化，摩尔线程想用 MUSA 解决真正的难题](https://www.infoq.cn/article/Oi49yHUTNwABaK5kWjWG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 15:16
+
+#### [OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档](https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 14:39
+
+#### [Ubuntu拥抱本地AI，而非云优先的操作系统集成](https://www.infoq.cn/article/qwTieOTecFAqQGbMRT2w?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 13:04
+
+#### [企业级Agent 落地，绕不开的 4 个工程问题](https://www.infoq.cn/article/qKW5Yu1ORiqMmX6mlLJ6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 11:49
+
+#### [微软发布Aspire 13.3，迎来部署与前端重磅更新](https://www.infoq.cn/article/2r8NSszpSkpU0BuiFSp7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 11:01
+
+#### [腾讯混元世界模型的研发布局与思考｜AICon上海](https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 10:00
+
+#### [阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型](https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 09:47
+
+#### [谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者](https://www.infoq.cn/article/5Zg1Bw19UtfKMETfrC3H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 09:36
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
+**发布时间**: 2026-05-21 17:11
+
+#### [iOS 里的这些实用辅助功能，每个人都可能用得上](https://sspai.com/post/104073)
+**发布时间**: 2026-05-21 15:39
+
+#### [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
+**发布时间**: 2026-05-21 11:30
+
+#### [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
+**发布时间**: 2026-05-21 08:36
 
 ---
 
