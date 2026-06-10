@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-09 00:12
+**最后更新时间**: 2026-06-10 00:18
+
+---
+
+## 🆕 最新更新 (2026-06-10 00:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（6月10日）](https://www.tmtpost.com/8021806.html)
+**发布时间**: 2026-06-10 07:51
+
+#### [【钛晨报】被美国列入中国军工企业名单？阿里巴巴、百度、蔚来、比亚迪等集体发声；微信AI生态开放内测，京东、美团、携程等十余家企业首批接入；OpenAI向美国证监会秘密提交IPO的S-1草案，尚未决定上市时间](https://www.tmtpost.com/8021581.html)
+**发布时间**: 2026-06-10 07:20
+
+#### [王伟东：从“东方蓝宝石”设计师到AI时代的建筑“破壁人”](https://www.tmtpost.com/8021629.html)
+**发布时间**: 2026-06-09 22:07
+
+#### [赛豆需要“第一责任人”](https://www.tmtpost.com/8020209.html)
+**发布时间**: 2026-06-09 18:22
+
+#### [超140亿营收赚不到2亿，健合的钱被谁拿走了？](https://www.tmtpost.com/8020210.html)
+**发布时间**: 2026-06-09 18:17
+
+#### [翻译一本书只要半小时，为什么出版没有爆炸？](https://www.tmtpost.com/8021017.html)
+**发布时间**: 2026-06-09 18:16
+
+#### [帕累托最优之下，美的集团人事迭代的边界与代价](https://www.tmtpost.com/8020666.html)
+**发布时间**: 2026-06-09 18:16
+
+#### [说服女王：从大航海赞助到SpaceX的史上最大IPO](https://www.tmtpost.com/8019277.html)
+**发布时间**: 2026-06-09 18:15
+
+#### [Avenir Group 下注 WasabiCard：为什么 U 卡退潮，稳定币支付反而更香了？](https://www.tmtpost.com/8020303.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [补贴退潮、格局重构：新能源重卡“规模化”闯关](https://www.tmtpost.com/8020265.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [2.8万台机器人领了“中国护照”，海外认吗？](https://www.tmtpost.com/8020033.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [林俊旸出走三个月后，阿里用Token Foundry结束了英雄时代](https://www.tmtpost.com/8020010.html)
+**发布时间**: 2026-06-09 18:12
+
+#### [teamLab悄悄退场：一个曾经排长队的IP，怎么就开不下去了？](https://www.tmtpost.com/8021037.html)
+**发布时间**: 2026-06-09 18:11
+
+#### [张小龙10年前就预判了Agent，微信AI将改变一切？](https://www.tmtpost.com/8021166.html)
+**发布时间**: 2026-06-09 18:00
+
+#### [国产汽车如何塑造专属品牌气质](https://www.tmtpost.com/8020992.html)
+**发布时间**: 2026-06-09 18:00
+
+#### [半年估值暴涨近7倍，月之暗面再启20亿美元融资](https://www.tmtpost.com/8021100.html)
+**发布时间**: 2026-06-09 18:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误](https://www.infoq.cn/article/sElIC5qTiH6iTiFJvDEk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 18:00
+
+#### [解码热门AI应用，智能质检、3D生成与AIGC实践分享](https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:41
+
+#### [Multi-Agent+工作流如何打造更泛化的智能体应用](https://www.infoq.cn/video/mU2DUpqtlo7HvmNTxxZk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:36
+
+#### [OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用](https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 16:00
+
+#### [IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元](https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 15:58
+
+#### [千亿市值办公软件巨头落子AI原生，WPS笔记打通从记录到复用五步闭环](https://www.infoq.cn/article/RNG5TY4vD472qtRv8rGo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 14:45
+
+#### [Google Workspace CLI：专为人类和 AI 代理设计的统一命令行工具](https://www.infoq.cn/article/q0ydG50JsK7e0FGVsGHV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 13:49
+
+#### [Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑](https://www.infoq.cn/article/OO3wCwaJK8Zy45W2h0I9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 13:33
+
+#### [Java 近期资讯： OpenJDK JEP、Hazelcast、Quarkus、Hibernate、Koog、JHipster 以及 Endive](https://www.infoq.cn/article/jc7BkJfDADvFbzKNGpDg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 11:03
+
+#### [蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海](https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 10:00
+
+#### [Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底](https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 09:33
+
+#### [BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险](https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-09 09:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)
+**发布时间**: 2026-06-09 17:06
+
+#### [众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
+**发布时间**: 2026-06-09 12:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [YouTube 一哥手搓了个 AI 工作台，一周就 5 万多 Star 。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534396&idx=1&sn=fd13b0cbb8fe850e8dac56d12649c132)
+**发布时间**: 2026-06-09 13:48
 
 ---
 
