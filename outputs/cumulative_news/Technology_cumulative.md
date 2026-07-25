@@ -1,7 +1,94 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 07:33
+**最后更新时间**: 2026-07-25 00:07
+
+---
+
+## 🆕 最新更新 (2026-07-25 00:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“母告子”撤诉后股价大跌6.65%，广安爱众缺的何止这4.79亿元](https://www.tmtpost.com/8078781.html)
+**发布时间**: 2026-07-24 20:03
+
+#### [港交所最大IPO来了！市值暴涨500倍，光模块一哥被资本疯抢](https://www.tmtpost.com/8078486.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [4100美元关口得而复失，下半年黄金还能涨吗？](https://www.tmtpost.com/8078562.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [大厂挤爆AI宠物赛道：年轻人不想铲屎，只想要不死的赛博猫咪？](https://www.tmtpost.com/8078514.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [中文播客，词汇通胀](https://www.tmtpost.com/8078490.html)
+**发布时间**: 2026-07-24 18:43
+
+#### [“药王”礼来，差一点错过GLP-1时代](https://www.tmtpost.com/8078583.html)
+**发布时间**: 2026-07-24 18:43
+
+#### [Beyond General AI: Why an AI Guitar Drew the Biggest Lines at WAIC](https://www.tmtpost.com/8078706.html)
+**发布时间**: 2026-07-24 18:22
+
+#### [adidas户外线启用中文名「山川里」；雅诗兰黛 2026 雅创未来创新大赛启动招募；AMIRO觅光完成D+轮融资｜消研所周报](https://www.tmtpost.com/8078534.html)
+**发布时间**: 2026-07-24 18:11
+
+#### [“脑机接口第一股”，IPO倒计时](https://www.tmtpost.com/8078394.html)
+**发布时间**: 2026-07-24 18:01
+
+#### [拓竹要造300万台3D打印机，谁来买？](https://www.tmtpost.com/8078419.html)
+**发布时间**: 2026-07-24 18:01
+
+#### [Anthropic的中国门徒](https://www.tmtpost.com/8078358.html)
+**发布时间**: 2026-07-24 17:43
+
+#### [65亿美金抢55人、日薪50万！全球机器人抢人，彻底失控](https://www.tmtpost.com/8078129.html)
+**发布时间**: 2026-07-24 17:28
+
+#### [特斯拉Robotaxi正式上路：一场烧钱无度的“史诗级豪赌”](https://www.tmtpost.com/8078471.html)
+**发布时间**: 2026-07-24 17:28
+
+#### [跌掉2000亿后，中国半导体设备之王还能不能打？](https://www.tmtpost.com/8078103.html)
+**发布时间**: 2026-07-24 17:18
+
+#### [7-Eleven杀入新鲜零食赛道](https://www.tmtpost.com/8078179.html)
+**发布时间**: 2026-07-24 17:18
+
+#### [WAIC挤满“卖铲人”，但算力服务终究是少数人的游戏](https://www.tmtpost.com/8078009.html)
+**发布时间**: 2026-07-24 16:55
+
+#### [海外收入超90%，万兴科技为何要回国"卷"？｜WAIC2026](https://www.tmtpost.com/8078438.html)
+**发布时间**: 2026-07-24 16:35
+
+#### [旭阳新材IPO三问：分红疑云、资金去向、逆常识增长](https://www.tmtpost.com/8077989.html)
+**发布时间**: 2026-07-24 16:15
+
+#### [How Vivo’s Forced India Joint Venture Is Rewriting Chinese Tech Globalization](https://www.tmtpost.com/8078454.html)
+**发布时间**: 2026-07-24 16:14
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 19:30
+
+#### [GKE 安全蓝图加入云厂商 AI 安全框架阵营](https://www.infoq.cn/article/DXKamMhJKJeV7CkeExzo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 18:00
+
+#### [深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？](https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 17:30
+
+#### [从“卷模型”到“算总账”：AI 产业竞争开始拼什么 | 请回答 WAIC 2026](https://www.infoq.cn/article/SyHXRLS6AR3vI6VtVjDo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:45
+
+#### [开发者的 AI 助手升级了：Android Studio 支持多个 Agent 同时处理任务](https://www.infoq.cn/article/j227Ip5mPV4SQFuFX63C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
+**发布时间**: 2026-07-24 17:38
+
+#### [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
+**发布时间**: 2026-07-24 15:00
 
 ---
 
