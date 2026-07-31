@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 07:53
+**最后更新时间**: 2026-07-31 11:05
+
+---
+
+## 🆕 最新更新 (2026-07-31 11:05)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [晶圆级芯片，正在升温](https://www.tmtpost.com/8085583.html)
+**发布时间**: 2026-07-31 18:51
+
+#### [为什么大疆Pocket 4在闲鱼涨价卖，而影石Luna Ultra却被“贴钱甩”？](https://www.tmtpost.com/8085617.html)
+**发布时间**: 2026-07-31 18:51
+
+#### [“寒王”包人均超百万“大红包”，但想拿到不容易](https://www.tmtpost.com/8085653.html)
+**发布时间**: 2026-07-31 18:50
+
+#### [教培五周年，教培行业如何了](https://www.tmtpost.com/8086313.html)
+**发布时间**: 2026-07-31 18:50
+
+#### [从计算到存储：二维半导体产业链正在形成](https://www.tmtpost.com/8085581.html)
+**发布时间**: 2026-07-31 18:46
+
+#### [光模块估值双轨制：上游稀缺重估与下游科技股叙事的认知断裂](https://www.tmtpost.com/8086478.html)
+**发布时间**: 2026-07-31 18:41
+
+#### [当金价不再上涨，老铺黄金还值多少钱？](https://www.tmtpost.com/8086625.html)
+**发布时间**: 2026-07-31 18:41
+
+#### [飞书"出嫁"豆包、腾讯推"人机双写"：大厂AI办公终于想起要收费了](https://www.tmtpost.com/8086639.html)
+**发布时间**: 2026-07-31 18:40
+
+#### [民宿老板，快被这个暑期熬垮了？](https://www.tmtpost.com/8086913.html)
+**发布时间**: 2026-07-31 18:25
+
+#### [字节重构飞书，释放了什么信号？](https://www.tmtpost.com/8087110.html)
+**发布时间**: 2026-07-31 18:25
+
+#### [新能源车还有哪些反人类设计要“改邪归正”？](https://www.tmtpost.com/8087185.html)
+**发布时间**: 2026-07-31 18:21
+
+#### [国产电纸书涨成理财产品，年轻人不想接盘了](https://www.tmtpost.com/8087165.html)
+**发布时间**: 2026-07-31 18:21
+
+#### [门禁堵人，欠费曝光：数字化成了物业“跑路”元凶？](https://www.tmtpost.com/8087171.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [软壳鼻祖猛犸象可能也要越来越贵了](https://www.tmtpost.com/8087191.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [AI明星粉丝快40万了，真人明星要交出饭碗吗？](https://www.tmtpost.com/8087189.html)
+**发布时间**: 2026-07-31 18:15
+
+#### [CPE源峰全资收购猛犸象；慕思牵头成立数字人体与智慧睡眠创新联合体；阿迪达斯Q2大中华区营收同增15%；得物App上线租赁服务｜消研所周报](https://www.tmtpost.com/8086946.html)
+**发布时间**: 2026-07-31 18:14
+
+#### [家居巨头们的“血色黄昏”](https://www.tmtpost.com/8087199.html)
+**发布时间**: 2026-07-31 18:05
+
+#### [苏州，最被低估的城市，AI竞赛里的隐形冠军](https://www.tmtpost.com/8087225.html)
+**发布时间**: 2026-07-31 18:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026](https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:48
+
+#### [下一个国民级 AI 产品，或许就诞生于一人之手](https://www.infoq.cn/article/uZNH5KLzR1efgGEG0wEq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:44
+
+#### [Agent 形态一天一个样，Infra 到底该为谁而建？| 请回答 WAIC 2026](https://www.infoq.cn/article/spxwy17ZcfM3BIctR4PL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:39
+
+#### [圆桌访谈：收官特别场——三天后再看 WAIC，AI 正在重写什么？](https://www.infoq.cn/video/J0le0eHEDZ0bYkovg4GM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:00
+
+#### [从金融专业到资深Builder：我如何借多Agent开发工作流，一周做出MVP、一个月上线](https://www.infoq.cn/article/DHDOQWmDXa4obvC4l99E?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:54
+
+#### [NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本](https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:16
+
+#### [为什么 Jotai 要重做 Store？一次高吞吐性能优化背后的架构取舍](https://www.infoq.cn/article/A3Kb4dOvDtMWXiAYet8x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 17:00
+
+#### [枫清科技高雪峰：AI正在进入材料研发与化工生产全流程](https://www.infoq.cn/article/zIm0P8HWsWHWuGC54BsU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 15:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
+**发布时间**: 2026-07-31 17:57
+
+#### [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
+**发布时间**: 2026-07-31 15:00
 
 ---
 
