@@ -1,7 +1,125 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 23:26
+**最后更新时间**: 2026-08-20 11:34
+
+---
+
+## 🆕 最新更新 (2026-08-20 11:34)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI 办公混战，腾讯百度抢先](https://www.tmtpost.com/8109247.html)
+**发布时间**: 2026-08-20 19:05
+
+#### [百度搭子追WorkBuddy，不能只拼“干活”](https://www.tmtpost.com/8109452.html)
+**发布时间**: 2026-08-20 19:03
+
+#### [国内游戏卷不动了，出海成为行业最后的增量战场？](https://www.tmtpost.com/8110668.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [935亿热钱与冷水：宇树成为具身智能最后一只神股？](https://www.tmtpost.com/8109234.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [美的系“悍将不悍”？殷必彤是哪类高管？](https://www.tmtpost.com/8109206.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [屏幕增加、海报减少，分众为什么开始清理低效点位？](https://www.tmtpost.com/8109001.html)
+**发布时间**: 2026-08-20 18:57
+
+#### [章子怡，一笔投资回报130倍](https://www.tmtpost.com/8110705.html)
+**发布时间**: 2026-08-20 18:53
+
+#### [阿里前员工做AI出海，被全球豪门资本疯抢](https://www.tmtpost.com/8110660.html)
+**发布时间**: 2026-08-20 18:53
+
+#### [阿里AI进入分化期：云业务加速兑现，应用业务等待商业模式｜ 看财报](https://www.tmtpost.com/8110834.html)
+**发布时间**: 2026-08-20 18:43
+
+#### [高乐股份：连续七年亏损底色未改，67亿算力大单转型成效待考 | 看财报](https://www.tmtpost.com/8110708.html)
+**发布时间**: 2026-08-20 18:40
+
+#### [Practical AI Video Takes Root in Chinese Workshops While Spectacle Recedes](https://www.tmtpost.com/8110818.html)
+**发布时间**: 2026-08-20 18:17
+
+#### [84岁“香料大王”三闯IPO，香奈儿、迪奥都离不开他](https://www.tmtpost.com/8110621.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [新茶饮能讲的故事不多了](https://www.tmtpost.com/8110590.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [摩根大通预警粮食危机：当前农产品涨的是预期，减产冲击在2027年](https://www.tmtpost.com/8110420.html)
+**发布时间**: 2026-08-20 17:42
+
+#### [拆解Anthropic：押注 coding 的公司很多，为什么它先吃到复利？](https://www.tmtpost.com/8110602.html)
+**发布时间**: 2026-08-20 17:05
+
+#### [疫苗的东风终于来了](https://www.tmtpost.com/8110363.html)
+**发布时间**: 2026-08-20 15:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理](https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 19:03
+
+#### [AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力](https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 18:00
+
+#### [CloudFlare 预览网页 WebMCP 自动支持功能](https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 17:00
+
+#### [你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践](https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 16:12
+
+#### [Buildpacks 将容器加固控制点从 Dockerfile 中移出](https://www.infoq.cn/article/8EPJjIlk5WwgiXphjxEW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 15:39
+
+#### [将可理解性作为架构特性：无法理解的系统无法安全演进](https://www.infoq.cn/article/d5mWBGZxB2l2vRTO8wFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 14:00
+
+#### [将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元](https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 12:50
+
+#### [从中文到小语种都能无痕修改，美图影像研究院（MT Lab）提出全新场景文本编辑方案 | ICML 2026](https://www.infoq.cn/article/PuaPuRIjd35ItQSVCOK1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 11:10
+
+#### [蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳](https://www.infoq.cn/article/FjAtSWXLEfY3Iu4ThvJM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 10:00
+
+#### [保存历史不等于形成记忆：KDC 的长期运行主张](https://www.infoq.cn/article/EF97eR5oivR50UqIINsP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 10:00
+
+#### [随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性](https://www.infoq.cn/article/ELr08T70hyUzfUolgw5g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-20 09:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
+**发布时间**: 2026-08-20 17:30
+
+#### [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
+**发布时间**: 2026-08-20 15:25
+
+#### [「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
+**发布时间**: 2026-08-20 10:41
+
+#### [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
+**发布时间**: 2026-08-20 08:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「广告位」时代已死，智能体商业开收「中介费」](http://www.geekpark.net/news/369078)
+**发布时间**: 2026-08-20 11:26
+
+#### [睡觉时往脑袋上通电，4000 个美国人抢着买单](http://www.geekpark.net/news/369077)
+**发布时间**: 2026-08-20 11:14
+
+#### [中国首次实现火箭陆地回收；宇树上市，市值最高超 4000 亿；蔡明同款机器人亮相，9.9 万元｜极客早知道](http://www.geekpark.net/news/369056)
+**发布时间**: 2026-08-20 08:39
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [太抽象了，别急着更新 Codex，德州扑克功能并没上线](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536057&idx=1&sn=d22b91470bec469c2124904d80b7cb32)
+**发布时间**: 2026-08-20 09:18
 
 ---
 

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 23:26
+**最后更新时间**: 2026-08-20 11:34
+
+---
+
+## 🆕 最新更新 (2026-08-20 11:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?](https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 11:15
+
+#### [Treasury’s bond buyback blitz may end up driving yields higher, warns JPMorgan. Here’s their investment advice.](https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 11:15
+
+#### [Oil prices jump after Trump declares economic war on Iran](https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 11:06
+
+#### [AMD is betting on dirt-cheap AI chips, but financing them is a major question mark](https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 11:00
+
+#### [Why Bessent’s Treasury operations have breathed life back into the gold trade](https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 10:19
+
+#### [‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?](https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 10:15
+
+#### [Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?](https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 09:15
+
+#### [Wrestler Logan Paul lists California ‘LSD ranch’ for $3 million](https://www.marketwatch.com/story/wrestler-logan-paul-lists-california-lsd-ranch-for-3-million-c870b5bf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 09:02
+
+#### [More SpaceX stock is about to hit the market. Here’s what to know.](https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 09:00
+
+#### [7 things you should always keep in your car](https://www.marketwatch.com/story/7-things-you-should-always-keep-in-your-car-a2999454?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [North Korea launches missile barrage after dismissing Trump overture](https://www.ft.com/content/d15d68d5-291b-44d2-8fdf-3afc95308e9e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 10:43
+
+#### [Russia launches deadly missile and drone attacks on Kyiv](https://www.ft.com/content/736418a3-6d0d-4425-91df-9671db4c9b7d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 09:55
+
+#### [Trump announces new drive to isolate and crush Iranian economy](https://www.ft.com/content/785aafd1-705a-47da-b016-032d66e449c0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 09:01
+
+#### [Founder of collapsed Chinese property giant given life sentence](https://www.ft.com/content/895d78fc-ce60-4cb6-a8d5-db3ab01d1ebf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 05:49
+
+#### [Top US law firms hit by backlash over ‘crazy’ hiring of first-year students](https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [Trump turns on Washington’s museums in new culture war offensive](https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [The slow sucking sound of AI](https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [Barclays struggles to ‘retrain the dog’ on Wall Street](https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [The container revolution is running out of room](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 03:00
+
+#### [Grain prices surge after Ukraine war chokes off seaborne exports](https://www.ft.com/content/91f17b0f-9c31-483e-b828-d90dad931a2f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 16:55
 
 ---
 
